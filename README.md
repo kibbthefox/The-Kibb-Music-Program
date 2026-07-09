@@ -17,7 +17,7 @@ Fun Fact! When creating the name (K1 Monophonic Sampler), I decided to use the f
 ### MacOS
 Only one version of MacOS has been tested (Intel).
 
-To open, uncompress the zip, and right click on the file. Select "Open" and then it will open up a window. Click "Open" again and then the program will open.
+To open, uncompress the zip, and right click on the file. Select "Open" and then it will open up a window. Click "Open" again and then the program will open. You mat need to right click and select "Open" twice if the window below shows up without the "Open" button.
 
 ![imageopen](https://cdn.phototourl.com/free/2026-07-09-16f264ad-4c75-40eb-bad4-a7da0b92ea97.png)
 
@@ -28,7 +28,7 @@ It may prompt you when opening or while using if the program can access certain 
 ### Windows
 Only Windows 11 has been tested.
 
-The installation shouldn't have any issues. Just uncompress the .zip and open the file. If a windows security windows shows up, click "more info" on the windows security window, and then click "Run Anyway"
+The installation shouldn't have any issues. Just uncompress the .zip and open the file. If a windows security window shows up, click "more info" on the windows security window, and then click "Run Anyway"
 
 ## MIDI Instructions
  To use MIDI input, your MIDI keyboard MUST be plugged in when the program launches. You can always restart. After trying, I was not able to code a button to connect to MIDI :( 
